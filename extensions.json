@@ -233,11 +233,11 @@
         "url": "https://github.com/SillyTavern/Extension-Mermaid"
     },
     {
-        "id": "Extension-AccuWeather",
+        "id": "Extension-Weather",
         "type": "extension",
-        "name": "AccuWeather",
-        "description": "Provides weather information using the AccuWeather API as a slash command or a function tool.",
-        "url": "https://github.com/SillyTavern/Extension-AccuWeather",
+        "name": "Weather",
+        "description": "Provides weather information using one of the available weather APIs as a slash command or a function tool.",
+        "url": "https://github.com/SillyTavern/Extension-Weather",
         "tool": true
     },
     {
